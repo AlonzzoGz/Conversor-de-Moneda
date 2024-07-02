@@ -91,5 +91,3 @@
 <p>Este proyecto está bajo la licencia MIT. Para más detalles, lee el archivo LICENSE.</p>
 
 <hr>
-
-<p>Este README proporciona una visión general de las clases principales del proyecto, sus funciones y cómo instalar y utilizar el conversor de moneda. Asegúrate de personalizarlo con detalles específicos de tu implementación y cualquier otra información relevante.</p>
